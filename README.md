@@ -1,4 +1,3 @@
-# Penguin-Species-EDA
 # Palmer Penguins: Exploratory Data Analysis 🐧📊
 
 This project performs a comprehensive Exploratory Data Analysis (EDA) on the **Palmer Penguins** dataset. Using Python's powerful visualization libraries, it explores the biological patterns, physical measurements, and distribution of different penguin species (Adelie, Gentoo, and Chinstrap).
